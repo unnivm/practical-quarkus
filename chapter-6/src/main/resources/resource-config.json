@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "ValidationMessages.properties"
+      },
+      {
+        "pattern": "org/hibernate/validator/ValidationMessages.properties"
+      },
+      {
+        "pattern": "META-INF/validation.xml"
+      }
+    ]
+  }
+}
