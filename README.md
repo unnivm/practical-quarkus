@@ -37,10 +37,10 @@ docker run --name postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgr
 The API will be available at http://localhost:8080/users.
 
 📚 Code by Chapter
-Chapter	Topic	        Code Location
-2	CRUD with Panache	src/main/java/org/example/User.java
-3	Validation & Error Handling	UserResource.java
-7	Native Executable	application.properties and build config
+Chapter	  Topic	                        Code Location
+2	      CRUD with Panache	            src/main/java/org/example/User.java
+3	      Validation & Error Handling	UserResource.java
+7	      Native Executable	            application.properties and build config
 
 🤝 Contributing
 Found an issue? Have an improvement? Please open an issue or submit a pull request
