@@ -1,8 +1,11 @@
 # Practical Quarkus: From Zero to Native
 
+[![GitHub stars](https://img.shields.io/github/stars/unnivm/practical-quarkus)](https://github.com/unnivm/practical-quarkus/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/unnivm/practical-quarkus)](https://github.com/unnivm/practical-quarkus/forks)
 [![Java Version](https://img.shields.io/badge/Java-21-blue.svg)](https://adoptium.net/)
 [![Quarkus Version](https://img.shields.io/badge/Quarkus-3.35.3-blue)](https://quarkus.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 This repository contains the complete, working code examples for the book **"Practical Quarkus: From Zero to Native"**. Every example is tested and ready to run.
 
