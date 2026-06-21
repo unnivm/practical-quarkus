@@ -53,6 +53,8 @@ The API will be available at http://localhost:8080/users.
 | 3 | Validation & Error Handling | `UserResource.java` | Add validation and proper HTTP error handling. |
 | 7 | Native Executable | `application.properties` | Compile your app to a native executable that starts in 0.01s. |
 
+**Latest update:** This repository has been cloned over 60 times in the last 14 days. Join the community!
+
 🤝 Contributing
 Found an issue? Have an improvement? Please open an issue or submit a pull request
 
