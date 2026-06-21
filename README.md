@@ -46,11 +46,12 @@ docker run --name postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgr
 ```
 The API will be available at http://localhost:8080/users.
 
-📚 Code by Chapter
-Chapter	  Topic	                        Code Location
-2	      CRUD with Panache	            src/main/java/org/example/User.java
-3	      Validation & Error Handling	UserResource.java
-7	      Native Executable	            application.properties and build config
+## 📚 Code by Chapter
+| Chapter | Topic | Code Location | What You'll Learn |
+| :--- | :--- | :--- | :--- |
+| 2 | CRUD with Panache | `src/main/java/org/example/User.java` | Build a REST API with a PostgreSQL database in 20 lines. |
+| 3 | Validation & Error Handling | `UserResource.java` | Add validation and proper HTTP error handling. |
+| 7 | Native Executable | `application.properties` | Compile your app to a native executable that starts in 0.01s. |
 
 🤝 Contributing
 Found an issue? Have an improvement? Please open an issue or submit a pull request
