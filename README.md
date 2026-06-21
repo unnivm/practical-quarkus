@@ -25,15 +25,15 @@ This repository contains the complete, working code examples for the book **"Pra
 ```
 git clone https://github.com/unnivm/practical-quarkus.git
 cd practical-quarkus# practical-quarkus
-
+```
 **2. Start the database**
 ```
 docker run --name postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgres -e POSTGRES_DB=devdb -p 5432:5432 -d postgres
-
+```
 **3. Run in development mode**
 ```
 ./mvnw quarkus:dev
-
+```
 The API will be available at http://localhost:8080/users.
 
 📚 Code by Chapter
