@@ -23,9 +23,7 @@ This repository contains the complete, working code examples for the book **"Pra
 ## 🎁 Get the Free Survival Guide
 Struggling with Quarkus native image builds? Download the free **"Quarkus Native Image Survival Guide"** PDF, which covers 5 common startup failures and their fixes.
 
-[📥 Download the Free PDF](https://unnivm.systeme.io/)
-
-**Quarkus native survival guide:** [Download from Here](quarkus-native-survival-guide.pdf)
+[📥 Download the Free PDF](quarkus-native-survival-guide.pdf)
 
 ---
 
