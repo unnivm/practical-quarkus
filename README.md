@@ -11,7 +11,7 @@ This repository contains the complete, working code examples for the book **"Pra
 * A complete test suite (unit + integration)
 * A native executable that starts in ~0.05 seconds
 
-**Read the full book on Amazon:** [Practical Quarkus: From Zero to Native](YOUR_AMAZON_LINK)
+**Read the full book on Amazon:** [Practical Quarkus: From Zero to Native](https://www.amazon.com/dp/B0H2JR9DLD)
 
 **Or get a free chapter:** [Download Chapter 1 PDF](YOUR_SYSTEME_IO_LINK)
 
