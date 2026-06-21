@@ -14,6 +14,7 @@ This repository contains the complete, working code examples for the book **"Pra
 * A complete test suite (unit + integration)
 * A native executable that starts in ~0.05 seconds
 
+---
 ## 📖 Get the Book
 **Practical Quarkus: From Zero to Native** is available on Amazon. The book covers everything in this repository and much more, including testing, native executables, and REST clients.
 
@@ -23,7 +24,6 @@ This repository contains the complete, working code examples for the book **"Pra
 Struggling with Quarkus native image builds? Download the free **"Quarkus Native Image Survival Guide"** PDF, which covers 5 common startup failures and their fixes.
 
 [📥 Download the Free PDF](https://unnivm.systeme.io/)
-
 
 **Quarkus native survival guide:** [Download from Here](quarkus-native-survival-guide.pdf)
 
