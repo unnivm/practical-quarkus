@@ -13,7 +13,7 @@ This repository contains the complete, working code examples for the book **"Pra
 
 **Read the full book on Amazon:** [Practical Quarkus: From Zero to Native](https://www.amazon.com/dp/B0H2JR9DLD)
 
-**Quarkus native survival guide:** [Download Chapter 1 PDF](quarkus-native-survival-guide.pdf)
+**Quarkus native survival guide:** [Download from Here](quarkus-native-survival-guide.pdf)
 
 ---
 
