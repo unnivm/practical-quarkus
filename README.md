@@ -2,6 +2,7 @@
 
 [![Java Version](https://img.shields.io/badge/Java-21-blue.svg)](https://adoptium.net/)
 [![Quarkus Version](https://img.shields.io/badge/Quarkus-3.35.3-blue)](https://quarkus.io/)
+[![Book code repo](https://img.shields.io/badge/github-repo-blue?logo=practical-quarkus)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This repository contains the complete, working code examples for the book **"Practical Quarkus: From Zero to Native"**. Every example is tested and ready to run.
