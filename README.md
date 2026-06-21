@@ -22,7 +22,7 @@ This repository contains the complete, working code examples for the book **"Pra
 **Prerequisites:** Java 21, Maven, Docker (for the database).
 
 **1. Clone the repo**
-```bash
+```
 git clone https://github.com/unnivm/practical-quarkus.git
 cd practical-quarkus# practical-quarkus
 
@@ -31,7 +31,7 @@ cd practical-quarkus# practical-quarkus
 docker run --name postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgres -e POSTGRES_DB=devdb -p 5432:5432 -d postgres
 
 **3. Run in development mode**
-```bash
+```
 ./mvnw quarkus:dev
 
 The API will be available at http://localhost:8080/users.
